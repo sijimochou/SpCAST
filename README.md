@@ -1,2 +1,3 @@
 # SpCAST
-SpCAST: a cell type mapping method for spatial transcriptomics via Kolmogorov-Arnold networks and transfer learning
+SpCAST: Decoding spatial transcriptomics at single-cell resolution with fast and interpretable analysis
+
